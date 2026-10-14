@@ -13,3 +13,6 @@ git log    - Commit geçmişini gösterir
 
 git branch - Branch'leri listeler veya yenisini oluşturur
 git merge  - İki branch'i birleştirir
+
+git push - Commit'leri GitHub'a gönderir
+git pull - GitHub'daki değişiklikleri bilgisayara çeker
