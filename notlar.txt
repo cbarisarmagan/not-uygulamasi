@@ -3,3 +3,10 @@ cd    - Klasörler arasında geçiş yapar
 pwd   - Bulunduğun klasörün yolunu gösterir
 mkdir - Yeni klasör oluşturur
 rm    - Dosya siler
+
+--- Hafta 2: Git Komutları ---
+git init   - Klasörü Git reposuna dönüştürür
+git status - Dosyaların durumunu gösterir
+git add    - Değişiklikleri staging area'ya alır
+git commit - Staging'deki değişiklikleri kaydeder
+git log    - Commit geçmişini gösterir
